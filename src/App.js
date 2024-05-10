@@ -194,7 +194,7 @@ function App() {
                   <li>
                     Cameron Jobson -{" "}
                     <a href="https://github.com/cameronjobson" target="_blank">
-                      Github
+                      https://github.com/cameronjobson
                     </a>
                   </li>
                   <li>
