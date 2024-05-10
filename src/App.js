@@ -179,6 +179,35 @@ function App() {
             </div>
           </div>
         </div>
+        <footer class="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <h4>Credits</h4>
+                <ul class="list-unstyled">
+                  <li>
+                    Azal Amer -
+                    <a href="https://github.com/Azal-Amer" target="_blank">
+                      Github
+                    </a>
+                  </li>
+                  <li>
+                    Cameron Jobson -{" "}
+                    <a href="https://github.com/cameronjobson" target="_blank">
+                      Github
+                    </a>
+                  </li>
+                  <li>
+                    Anisha Baskar Torres -{" "}
+                    <a href="https://github.com/anisha1045" target="_blank">
+                      Github
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer>
       </div>
     </MathJaxContext>
   );

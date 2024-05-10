@@ -23,3 +23,37 @@ code {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the values for the shadow */
     width: 500px;
 }
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+footer h4 {
+  margin-bottom: 10px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+footer li {
+  margin-bottom: 5px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+}
